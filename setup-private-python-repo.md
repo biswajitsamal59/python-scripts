@@ -9,6 +9,7 @@ Scripts\activate.bat
 ```
 
 Create Pip Configuration File(pip.ini) with below content and place it inside Virtual Env(C:\Users\test\OneDrive\Desktop\pvenv): <br />
+**For Azure Devops pip feed, generate a PAT** <br />
 ```
 [global]
 index-url=https://<user-name>:<token>@<package-repo-yrl>
